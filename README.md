@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/dyanakiev?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanakiev&show_icons=true&count_private=true" alt="dyanakiev's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyanakiev&hide=css,html&layout=compact" alt="dyanakiev's Top Languages">
+</a>
+
 <!--
 **dyanakiev/dyanakiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
